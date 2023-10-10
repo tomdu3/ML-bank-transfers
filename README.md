@@ -7,5 +7,5 @@
 
 ![Workflow Diagram ML Bank Transfer Fraud](./docs/ml-bank-transfer-fraud-detection.png)
 
-[Workflow Diagram ML Bank Transfer Fraud PDF](./docs/ml-bank-transfer-fraud-detection%20.pdf)
+[Workflow Diagram ML Bank Transfer Fraud PDF](./docs/ml-bank-transfer-fraud-detection.pdf)
 
